@@ -1,0 +1,3 @@
+Jest to 
+przykładowa zawartość
+pliku Witaj.txt
